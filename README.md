@@ -9,3 +9,7 @@ https://prnt.sc/u1co1w
 
 https://prnt.sc/u1cosw
 
+
+Error Display During Deployment:
+https://prnt.sc/u1d581
+

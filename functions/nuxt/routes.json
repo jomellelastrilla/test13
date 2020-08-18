@@ -1,0 +1,23 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/mnt/d/cpms/test13/src/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_e65beb86"
+  },
+  {
+    "name": "Login",
+    "path": "/Login",
+    "component": "/mnt/d/cpms/test13/src/pages/Login/index.vue",
+    "chunkName": "pages/Login/index",
+    "_name": "_245c236f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/mnt/d/cpms/test13/src/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_320e0a16"
+  }
+]
